@@ -6,6 +6,6 @@ end
 make_internaltional_call(78714578880,5,1)
 make_internaltional_call(7871457880)
 
-puts "hello guys"
+
 
 
